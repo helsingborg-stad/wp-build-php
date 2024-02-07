@@ -1,0 +1,13 @@
+{
+    "name": "helsingborg-stad/wp-build-php",
+    "description": "Build assets and sub-packages for WordPress Plugins and Themes.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sebastian Thulin",
+            "email": "sebastian.thulin@helsingborg.se"
+        }
+    ],
+    "minimum-stability": "stable"
+}
