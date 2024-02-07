@@ -9,6 +9,9 @@
             "email": "sebastian.thulin@helsingborg.se"
         }
     ],
+    "bin": [
+        "build"
+    ],
     "minimum-stability": "stable",
     "version": "0.4.0"
 }
