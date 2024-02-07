@@ -4,8 +4,8 @@
     "license": "MIT",
     "author": "Sebastian Thulin <sebastian.thulin@helsingborg.se>",
     "private": true,
-    "dependencies": {},
-    "devDependencies": {},
-    "scripts": {}
-  }
-  
+    "dependencies": [],
+    "devDependencies": [],
+    "scripts": [],
+    "version": "0.4.0"
+}
