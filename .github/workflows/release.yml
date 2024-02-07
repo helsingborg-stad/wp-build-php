@@ -91,6 +91,8 @@ jobs:
             '.gitattributes'
             'composer.json'
             'composer.lock'
+            'package.json'
+            'package.lock'
             'README.md'
             'LICENSE'
           )

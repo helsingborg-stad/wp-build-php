@@ -1,0 +1,11 @@
+{
+    "name": "@helsingborg-stad/wp-build-php",
+    "description": "Build assets and sub-packages for WordPress Plugins and Themes.",
+    "license": "MIT",
+    "author": "Sebastian Thulin <sebastian.thulin@helsingborg.se>",
+    "private": true,
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {}
+  }
+  
